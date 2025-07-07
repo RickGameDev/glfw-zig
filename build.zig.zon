@@ -2,7 +2,7 @@
     .name = .glfw,
     .fingerprint = 0x3bbe0a5cf320836b,
     .version = "3.4.0",
-    .minimum_zig_version = "0.15.0-dev.558+9279ff888",
+    .minimum_zig_version = "0.15.0-dev.920+b461d07a5",
     .dependencies = .{
         .glfw = .{
             .url = "https://github.com/glfw/glfw/archive/refs/tags/3.4.tar.gz",
